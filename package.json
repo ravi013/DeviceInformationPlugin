@@ -1,0 +1,36 @@
+{
+  "name": "rd-deviceinformation",
+  "version": "1.0.1",
+  "description": "This plugin will get most of the information available through Android's Telephony Manager and Account Manager classes.",
+  "cordova": {
+    "id": "rd-deviceinformation",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi013/Rd-DeviceInformationPlugin.git"
+  },
+  "keywords": [
+    "android",
+    "telephony manager",
+    "phone number",
+    "device information",
+    "account details",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravi013/Rd-DeviceInformationPlugin/issues"
+  },
+  "homepage": "https://github.com/ravi013/Rd-DeviceInformationPlugin#readme"
+}
